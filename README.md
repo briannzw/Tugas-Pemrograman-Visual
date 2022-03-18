@@ -32,4 +32,4 @@ Dosen : T. Henny Febriana Harumy S.Kom., M.Kom
 * Tugas Program Kasir - Pertemuan 6
 
 ![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Tugas%20Kasir%20-%20Pertemuan%206.png "Screenshot Tugas Program Kasir")
-** Note : Please add new table name "TBL_BARANG" and change Data Source to your database name on Koneksi.cs file.
+### Note : Please add new table name "TBL_BARANG" and change Data Source to your database name on Koneksi.cs file.
