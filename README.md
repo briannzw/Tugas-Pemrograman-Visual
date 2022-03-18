@@ -20,3 +20,7 @@ Dosen : T. Henny Febriana Harumy S.Kom., M.Kom
 * Tugas 1.3
 
 ![alt text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Tugas%201.3.png "Screenshot Tugas 1.3")
+
+* Materi Pertemuan 4
+
+![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Materi%20Pertemuan%204.png "Screenshot Materi Pertemuan 4")
