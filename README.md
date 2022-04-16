@@ -1,12 +1,12 @@
 # Tugas-Pemrograman-Visual
 
 ## General Info
-Repository Tugas Pemrograman Visual
-Brian Wijaya - NIM 201401042
-Ilmu Komputer
-Universitas Sumatera Utara
+Repository Tugas Pemrograman Visual  
+Brian Wijaya - NIM 201401042  
+Ilmu Komputer  
+Universitas Sumatera Utara  
 
-Dosen : T. Henny Febriana Harumy S.Kom., M.Kom
+Dosen : T. Henny Febriana Harumy S.Kom., M.Kom  
 
 ## Screenshots
 * Tugas 1.1
