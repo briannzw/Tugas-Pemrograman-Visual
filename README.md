@@ -24,3 +24,13 @@ Dosen : T. Henny Febriana Harumy S.Kom., M.Kom
 * Materi Pertemuan 4
 
 ![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Materi%20Pertemuan%204.png "Screenshot Materi Pertemuan 4")
+
+* Tugas Kalkulator Sederhana - Pertemuan 5
+
+![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Tugas%20Kalkulator%20-%20Pertemuan%205.png "Screenshot Tugas Kalkualtor Sederhana")
+
+* Tugas Program Kasir - Pertemuan 6
+
+![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Tugas%20Kasir%20-%20Pertemuan%206.png "Screenshot Tugas Program Kasir")
+
+**Note : Please add new table name "TBL_BARANG" and change Data Source to your database name on Koneksi.cs file.**
