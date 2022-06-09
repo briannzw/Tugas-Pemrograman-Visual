@@ -99,7 +99,7 @@ namespace Tugas_Program_Kasir___Pertemuan_7
             SqlConnection conn = Konn.GetConn();
             try
             {
-                conn.Open();
+                conn.Open();    
                 cmd = new SqlCommand("SELECT * FROM TBL_BARANG WHERE KodeBarang LIKE '%" + tb_cari_kode.Text + "%' OR NamaBarang LIKE '%" + tb_cari_kode.Text + "%'", conn);
                 ds = new DataSet();
                 da = new SqlDataAdapter(cmd);
