@@ -46,3 +46,7 @@ Dosen : T. Henny Febriana Harumy S.Kom., M.Kom
 ![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Tugas%20Kasir%20-%20Pertemuan%2010-12.png)
 
 **Note : Please add new table name "TBL_BARANG" and change Data Source to your database name on Koneksi.cs file.**
+
+* Ujian Akhir Semester - Program Sederhana
+
+![alt_text](https://github.com/briannzw/Tugas-Pemrograman-Visual/blob/master/Screenshot%20Ujian%20Akhr%20Semester.png "Screenshot Ujian Akhir Semester")
